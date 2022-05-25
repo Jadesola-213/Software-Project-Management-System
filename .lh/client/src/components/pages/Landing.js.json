@@ -1,0 +1,110 @@
+{
+    "sourceFile": "client/src/components/pages/Landing.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 23,
+            "patches": [
+                {
+                    "date": 1652898126033,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1652898133343,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -27,9 +27,9 @@\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n-      \r\n+      <h1>PMT</h1>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898159198,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -27,9 +27,9 @@\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n-      <h1>PMT</h1>\r\n+        <h1>Tool for Managing Software Projects</h1>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898166071,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -27,9 +27,9 @@\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n-        <h1>Tool for Managing Software Projects</h1>\r\n+        <h2>Tool for Managing Software Projects</h2>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898192632,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,9 +32,9 @@\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n-            Sign Up\r\n+            Register\r\n           </Button>\r\n         </div>\r\n       </div>\r\n     </section>\r\n"
+                },
+                {
+                    "date": 1652898264343,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -27,9 +27,9 @@\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n-        <h2>Tool for Managing Software Projects</h2>\r\n+        <h2>An easy-to-use, one-stop tool for effectively managing projects</h2>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898417806,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -22,9 +22,9 @@\n           <Button color='inherit' href='/login'>\r\n             Login\r\n           </Button>\r\n           <Button variant='contained' href='/register'>\r\n-            Sign Up\r\n+            Reg\r\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n"
+                },
+                {
+                    "date": 1652898524630,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -22,9 +22,9 @@\n           <Button color='inherit' href='/login'>\r\n             Login\r\n           </Button>\r\n           <Button variant='contained' href='/register'>\r\n-            Reg\r\n+            Register\r\n           </Button>\r\n         </div>\r\n       </nav>\r\n       <div className='landing-inner'>\r\n@@ -36,8 +36,9 @@\n             Register\r\n           </Button>\r\n         </div>\r\n       </div>\r\n+      \r\n     </section>\r\n   );\r\n };\r\n \r\n"
+                },
+                {
+                    "date": 1652898533061,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -36,9 +36,18 @@\n             Register\r\n           </Button>\r\n         </div>\r\n       </div>\r\n-      \r\n+      <div className='landing-bottom'>\r\n+        <h2>An easy-to-use, one-stop tool for effectively managing projects</h2>\r\n+        <h1>PMT</h1>\r\n+        \r\n+        <div className='buttons'>\r\n+          <Button variant='outlined' color='inherit' href='/register'>\r\n+            Register\r\n+          </Button>\r\n+        </div>\r\n+      </div>\r\n     </section>\r\n   );\r\n };\r\n \r\n"
+                },
+                {
+                    "date": 1652898549339,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n           </Button>\r\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n-        <h2>An easy-to-use, one-stop tool for effectively managing projects</h2>\r\n+        <h2>Features s</h2>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898556130,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n           </Button>\r\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n-        <h2>Features s</h2>\r\n+        <h2>Features Include</h2>\r\n         <h1>PMT</h1>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n"
+                },
+                {
+                    "date": 1652898567204,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,10 +37,10 @@\n           </Button>\r\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n-        <h2>Features Include</h2>\r\n-        <h1>PMT</h1>\r\n+        <h2>Features Include:</h2>\r\n+       \r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n             Register\r\n"
+                },
+                {
+                    "date": 1652898636389,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,10 +38,10 @@\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n-       \r\n         \r\n+        \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n             Register\r\n           </Button>\r\n"
+                },
+                {
+                    "date": 1652898642078,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,10 +38,10 @@\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n+        <h3>Features Include:</h2>\r\n         \r\n-        \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n             Register\r\n           </Button>\r\n"
+                },
+                {
+                    "date": 1652898656432,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,9 +38,9 @@\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n-        <h3>Features Include:</h2>\r\n+        <h3>Schedu</h3>\r\n         \r\n         <div className='buttons'>\r\n           <Button variant='outlined' color='inherit' href='/register'>\r\n             Register\r\n"
+                },
+                {
+                    "date": 1652898673690,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,14 +38,12 @@\n         </div>\r\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n-        <h3>Schedu</h3>\r\n+        <h3>Scheduling</h3>\r\n         \r\n         <div className='buttons'>\r\n-          <Button variant='outlined' color='inherit' href='/register'>\r\n-            Register\r\n-          </Button>\r\n+          <\r\n         </div>\r\n       </div>\r\n     </section>\r\n   );\r\n"
+                },
+                {
+                    "date": 1652898699969,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -39,11 +39,11 @@\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n-        \r\n+        <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n-          <\r\n+          \r\n         </div>\r\n       </div>\r\n     </section>\r\n   );\r\n"
+                },
+                {
+                    "date": 1652898712484,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -39,9 +39,12 @@\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n+        <h3>Pr</h3>\r\n         <h3>Scheduling</h3>\r\n+        <h3>Scheduling</h3>\r\n+        <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n       </div>\r\n"
+                },
+                {
+                    "date": 1652898726027,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -39,9 +39,9 @@\n       </div>\r\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n-        <h3>Pr</h3>\r\n+        <h3>Task Prioritization</h3>\r\n         <h3>Scheduling</h3>\r\n         <h3>Scheduling</h3>\r\n         <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n"
+                },
+                {
+                    "date": 1652898737968,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -40,11 +40,11 @@\n       <div className='landing-bottom'>\r\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n         <h3>Task Prioritization</h3>\r\n+        <h3>Collaboration</h3>\r\n         <h3>Scheduling</h3>\r\n         <h3>Scheduling</h3>\r\n-        <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n       </div>\r\n"
+                },
+                {
+                    "date": 1652898749028,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,10 +41,10 @@\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n         <h3>Task Prioritization</h3>\r\n         <h3>Collaboration</h3>\r\n+        <h3>Multiple</h3>\r\n         <h3>Scheduling</h3>\r\n-        <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n       </div>\r\n"
+                },
+                {
+                    "date": 1652898757552,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,9 +41,9 @@\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n         <h3>Task Prioritization</h3>\r\n         <h3>Collaboration</h3>\r\n-        <h3>Multiple</h3>\r\n+        <h3>Multiple users</h3>\r\n         <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n"
+                },
+                {
+                    "date": 1652898772468,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,9 +41,9 @@\n         <h2>Features Include:</h2>\r\n         <h3>Scheduling</h3>\r\n         <h3>Task Prioritization</h3>\r\n         <h3>Collaboration</h3>\r\n-        <h3>Multiple users</h3>\r\n+        <h3>Multiple users on a project</h3>\r\n         <h3>Scheduling</h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n"
+                },
+                {
+                    "date": 1652898776841,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -42,9 +42,9 @@\n         <h3>Scheduling</h3>\r\n         <h3>Task Prioritization</h3>\r\n         <h3>Collaboration</h3>\r\n         <h3>Multiple users on a project</h3>\r\n-        <h3</h3>\r\n+        <h3></h3>\r\n         <div className='buttons'>\r\n           \r\n         </div>\r\n       </div>\r\n"
+                }
+            ],
+            "date": 1652898126033,
+            "name": "Commit-0",
+            "content": "import React, { useEffect } from 'react';\r\nimport { Button } from '@material-ui/core';\r\nimport { Redirect } from 'react-router-dom';\r\nimport { useSelector } from 'react-redux';\r\n\r\nconst Landing = () => {\r\n  const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);\r\n\r\n  useEffect(() => {\r\n    document.title = 'PMT';\r\n  }, []);\r\n\r\n  if (isAuthenticated) {\r\n    return <Redirect to='/dashboard' />;\r\n  }\r\n\r\n  return (\r\n    <section className='landing'>\r\n      <nav className='top'>\r\n        <h2>PMT</h2>\r\n        <div>\r\n          <Button color='inherit' href='/login'>\r\n            Login\r\n          </Button>\r\n          <Button variant='contained' href='/register'>\r\n            Sign Up\r\n          </Button>\r\n        </div>\r\n      </nav>\r\n      <div className='landing-inner'>\r\n      \r\n        <h1>PMT</h1>\r\n        \r\n        <div className='buttons'>\r\n          <Button variant='outlined' color='inherit' href='/register'>\r\n            Sign Up\r\n          </Button>\r\n        </div>\r\n      </div>\r\n    </section>\r\n  );\r\n};\r\n\r\nexport default Landing;\r\n"
+        }
+    ]
+}

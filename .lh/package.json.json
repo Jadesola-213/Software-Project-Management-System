@@ -1,0 +1,74 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 14,
+            "patches": [
+                {
+                    "date": 1653494399702,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1653494406328,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \r\n+  \"homepage\"\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494411437,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\"\r\n+  \"homepage\":\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494421712,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\":\r\n+  \"homepage\": \"\"\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494446242,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\": \"\"\r\n+  \"homepage\": \"https://github.com/Jadesola-213/Software-Project-Management-System.git\"\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494471414,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\": \"https://github.com/Jadesola-213/Software-Project-Management-System.git\"\r\n+  \"homepage\": \"https://github.com/Jadesola-213/Software-Project-Management-System.git\",\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494490554,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\": \"https://github.com/Jadesola-213/Software-Project-Management-System.git\",\r\n+  \"homepage\": \"https://Jadesola-213/Software-Project-Management-System\",\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494499994,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n {\r\n-  \"homepage\": \"https://Jadesola-213/Software-Project-Management-System\",\r\n+  \"homepage\": \"https://Jadesola-213.github.io/Software-Project-Management-System\",\r\n   \"name\": \"PMT\",\r\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n"
+                },
+                {
+                    "date": 1653494566847,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,8 +4,9 @@\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n+    \r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494574400,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n-    \r\n+    \"predeploy\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494580931,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n-    \"predeploy\"\r\n+    \"predeploy\": \"\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494586520,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n-    \"predeploy\": \"\"\r\n+    \"predeploy\": \"npm run build\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494594112,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,10 @@\n   \"version\": \"1.0.0\",\r\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n-    \"predeploy\": \"npm run build\"\r\n+    \"predeploy\": \"npm run build\",\r\n+    \"deploy\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494600657,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n     \"predeploy\": \"npm run build\",\r\n-    \"deploy\"\r\n+    \"deploy\": \"\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                },
+                {
+                    "date": 1653494607905,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n   \"description\": \"A PMT built using the MERN stack.\",\r\n   \"main\": \"server.js\",\r\n   \"scripts\": {\r\n     \"predeploy\": \"npm run build\",\r\n-    \"deploy\": \"gh-pages -d \"\r\n+    \"deploy\": \"gh-pages -d b\"\r\n     \"start\": \"node server\",\r\n     \"server\": \"nodemon server\",\r\n     \"client\": \"npm start --prefix client\",\r\n     \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n"
+                }
+            ],
+            "date": 1653494399702,
+            "name": "Commit-0",
+            "content": "{\r\n  \r\n  \"name\": \"PMT\",\r\n  \"version\": \"1.0.0\",\r\n  \"description\": \"A PMT built using the MERN stack.\",\r\n  \"main\": \"server.js\",\r\n  \"scripts\": {\r\n    \"start\": \"node server\",\r\n    \"server\": \"nodemon server\",\r\n    \"client\": \"npm start --prefix client\",\r\n    \"dev\": \"concurrently \\\"npm run server\\\" \\\"npm run client\\\"\",\r\n    \"heroku-postbuild\": \"NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client\"\r\n  },\r\n  \"author\": \"Archawin Wongkittiruk\",\r\n  \"license\": \"MIT\",\r\n  \"dependencies\": {\r\n    \"bcryptjs\": \"^2.4.3\",\r\n    \"dotenv\": \"^8.2.0\",\r\n    \"express\": \"^4.17.1\",\r\n    \"express-validator\": \"^6.9.2\",\r\n    \"gh-pages\": \"^4.0.0\",\r\n    \"gravatar\": \"^1.8.1\",\r\n    \"jsonwebtoken\": \"^8.5.1\",\r\n    \"mongoose\": \"^5.11.16\"\r\n  },\r\n  \"devDependencies\": {\r\n    \"concurrently\": \"^5.3.0\",\r\n    \"nodemon\": \"^2.0.7\"\r\n  }\r\n}\r\n"
+        }
+    ]
+}
